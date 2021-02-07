@@ -99,13 +99,13 @@ Known Issues
 Future Features
 ---------------
 
-- Output into a MIDI file.
-- Output into an image file using [Abjad](#https://abjad.github.io/)
+- Output into a MIDI file using [Mido](https://mido.readthedocs.io/en/latest/)
+- Output into an image file using [Abjad](https://abjad.github.io/)
 
 References
 ----------
 
 - Racicot, J, The Solfa Cipher (NSEC17 Write-Up), 10 June 2017, http://wp.me/p852om-bj, last visited on 10 June 2017
 - The Solfa Cipher, http://www.wmich.edu/mus-theo/solfa-cipher/, last visited on 10 Jun 17
-- [Abjad](#https://abjad.github.io/) wrapper for [Lilypond](#http://lilypond.org/)
-- [Mido](#https://mido.readthedocs.io/en/latest/)
+- [Abjad](https://abjad.github.io/) wrapper for [Lilypond](http://lilypond.org/)
+- [Mido](https://mido.readthedocs.io/en/latest/)
